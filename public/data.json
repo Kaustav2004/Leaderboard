@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Aarav", "score": 2430, "rank": 1, "price": 5000 },
+    { "id": 2, "name": "Vivaan", "score": 1847, "rank": 2, "price": 4000 },
+    { "id": 3, "name": "Aditya", "score": 1674, "rank": 3, "price": 3500 },
+    { "id": 4, "name": "Aryan", "score": 1124, "rank": 4, "price": 3000 },
+    { "id": 5, "name": "Saheli", "score": 875, "rank": 5, "price": 2500 },
+    { "id": 6, "name": "Anaya", "score": 774, "rank": 6, "price": 2000 },
+    { "id": 7, "name": "Rohit", "score": 723, "rank": 7, "price": 1800 },
+    { "id": 8, "name": "Krishna", "score": 559, "rank": 8, "price": 1500 },
+    { "id": 9, "name": "Kapila", "score": 459, "rank": 9, "price": 1000 },
+    { "id": 10, "name": "Piyaali", "score": 359, "rank": 10, "price": 500 }
+  ]
+}
